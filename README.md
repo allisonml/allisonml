@@ -8,7 +8,7 @@ Be sure to also check out my [LinkedIn](https://www.linkedin.com/in/allisonmluna
 
 A bit about me...
 - 🌱 I’m currently learning about how we implement distributed systems and how we can keep our computer systems secure. I think I'm really growing to like Capture the Flag challenges...
-- 💬 Ask me about why I will never skip out on the midnight hackathon karaoke at the slight risk of not having a voice to pitch our product the next morning (don't worry, I never actually lose it)
+- 💬 Ask me what's the best part of hackathons
 - 🍪 Fun fact: Aside from learning new things, greeting new challenges, and getting to know my coworkers, one of the biggest things I will always look forward to in working after graduation is having a reliable source of snacks right beside me at my desk at all times.
 - 📫 How to reach me: Feel free to message me on [LinkedIn](https://www.linkedin.com/in/allisonmluna/) or send me an email at allisonmluna@gmail.com
 <!--
