@@ -1,6 +1,8 @@
 ### Howdy! 🤠
 
-I'm Allison, an upcoming BSc in Computer Science grad at UBC and this is the place some of my code calls home. Happy to have you here:)
+I'm Allison - Upcoming UBC BSc in Computer Science graduate, player of board games, and amateur cook with a vendetta against cutting onions.
+
+This is the place some of my code calls home. Happy to have you here:)
 
 Be sure to also check out my [LinkedIn](https://www.linkedin.com/in/allisonmluna/) to learn about some of my other academic and work projects and other fun stuff I'm up to.
 
